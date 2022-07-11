@@ -37,5 +37,9 @@ public class ZerodhaHomePageTest extends BaseClass {
 		ZerodhaBuyHomePOM zbp = new ZerodhaBuyHomePOM(driver) ;
 	    zbp.selectShareFromWatchListAndBuy("TATAMOTORS", driver);
 	}
+	@Test
+	public void testGitHub() {
+		
+	}
 	    
 }
